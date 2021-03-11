@@ -1,0 +1,58 @@
+
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+
+
+#output
+{
+	padding: 10px;
+	
+	width:80%;
+	
+	background: rgba(255,255,255,0.8);
+	
+	border-radius: 15px;
+	
+}
+
+#m2 {
+
+height: 85px;
+
+width: 85px;
+
+}
